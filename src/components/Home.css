@@ -1,0 +1,30 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home-image {
+    max-width: 70%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  .home-title {
+    font-size: 2em;
+    margin: 20px 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+  }
+  
+  .home-description {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .quote {
+    font-size: 1.2em;
+    font-style: italic;
+    color: Green;
+    margin-top: 20px;
+  }
+  

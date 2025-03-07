@@ -1,0 +1,33 @@
+.navbar {
+    background-color: none;
+    color: orangered;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar-links a {
+    color: orangered;
+    text-decoration: none;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .logout-button {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .logout-button:hover {
+    text-decoration: underline;
+  }

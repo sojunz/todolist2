@@ -1,0 +1,19 @@
+.footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-logo {
+  max-width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.footer-copyright {
+  font-size: 0.9em;
+  color: #777;
+}
